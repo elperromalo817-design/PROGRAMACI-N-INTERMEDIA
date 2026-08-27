@@ -1,0 +1,6 @@
+{
+  "name": "Lean Construction - Lookahead 4S & Make-Ready",
+  "description": "Gestión de programación intermedia (Lookahead 4 semanas) y Análisis de Restricciones Make-Ready para proyectos de viviendas en serie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
